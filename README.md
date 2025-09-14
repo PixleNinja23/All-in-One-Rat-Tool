@@ -1,52 +1,39 @@
-# All-in-One RAT Tool — Release Notes
+All-in-One RAT Tool — Release Notes
+⚡ Overview
 
-## ⚡ Overview
+This release contains a curated bundle of PC RATs and Android RATs, collected into a single toolkit. It is intended for security research, malware analysis, and controlled penetration testing in virtualized environments.
 
-This release contains a curated bundle of **PC RATs** and **Android RATs**, collected into a single toolkit. It is intended for **security research, malware analysis, and controlled penetration testing** in virtualized environments.
+⚠️ Important: Do not run these binaries on your main PC. Always use a VM or isolated test machine.
 
-⚠️ **Important:** Do not run these binaries on your main PC. Always use a VM or isolated test machine.
+⚠️ Ownership Disclaimer
 
----
+I do not own these products. These binaries and tools were found from third-party sources and are included here for research, analysis, and archival purposes only.
 
-## ⚠️ Ownership Disclaimer
+🖥️ VM Testing Checklist
 
-**I do not own these products.** These binaries and tools were found from third-party sources and are included here for research, analysis, and archival purposes only.
 
----
 
-## 🖥️ VM Testing Checklist
 
-* [ ] Use a **fresh VM snapshot** before testing
-* [ ] Disable host-guest shared folders (to avoid accidental spread)
-* [ ] Use **isolated network mode** unless intentionally testing C2 communications
-* [ ] Monitor activity with tools like Wireshark, ProcMon, or Cuckoo Sandbox
+📦 Included Families (Example)
 
----
+PC RATs: Venom HVNC, Remcos, Lime, Hiddenz HVNC, S-400, Silver, Xworm
 
-## 📦 Included Families (Example)
+Android RATs: Crax, Spynote, G700 V6
 
-* **PC RATs:** Venom HVNC, Remcos, Lime, Hiddenz HVNC, S-400, Silver, Xworm
-* **Android RATs:** Crax, Spynote, G700 V6
+⚖️ Legal & Ethical Disclaimer
 
----
-
-## ⚖️ Legal & Ethical Disclaimer
-
-This release is provided **strictly for educational and research purposes**. You are solely responsible for how you use it. Running these tools against systems you do not own or have explicit permission to test is **illegal**.
+This release is provided strictly for educational and research purposes. You are solely responsible for how you use it. Running these tools against systems you do not own or have explicit permission to test is illegal.
 
 By downloading or using this release, you agree to:
 
-* Use only in controlled lab environments
-* Follow all applicable laws and regulations
-* Accept full responsibility for outcomes
+Use only in controlled lab environments
 
----
+Follow all applicable laws and regulations
 
-## 📜 Quick Notes
+Accept full responsibility for outcomes
 
-* These assets may contain active network capabilities and persistence mechanisms — treat them as potentially dangerous.
-* If you did not intend to download such tools, do not extract or execute any files; delete them immediately.
+📜 Quick Notes
 
----
+These assets may contain active network capabilities and persistence mechanisms — treat them as potentially dangerous.
 
-![Hack GIF](https://media.tenor.com/fnFWknFZ6SkAAAAC/hack-hacker-hacking-hacked-matrix.gif)
+If you did not intend to download such tools, do not extract or execute any files; delete them immediately.
