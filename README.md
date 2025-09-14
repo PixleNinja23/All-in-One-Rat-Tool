@@ -14,15 +14,6 @@ This release contains a curated bundle of **PC RATs** and **Android RATs**, coll
 
 ---
 
-## 🖥️ VM Testing Checklist
-
-* [ ] Use a **fresh VM snapshot** before testing
-* [ ] Disable host-guest shared folders (to avoid accidental spread)
-* [ ] Use **isolated network mode** unless intentionally testing C2 communications
-* [ ] Monitor activity with tools like Wireshark, ProcMon, or Cuckoo Sandbox
-
----
-
 ## 📦 Included Rats
 
 * **PC RATs:** Venom HVNC, Remcos, Lime, Hiddenz HVNC, S-400, Silver, Xworm
