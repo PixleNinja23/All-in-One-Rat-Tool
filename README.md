@@ -23,7 +23,7 @@ This release contains a curated bundle of **PC RATs** and **Android RATs**, coll
 
 ---
 
-## 📦 Included Families (Example)
+## 📦 Included Rats
 
 * **PC RATs:** Venom HVNC, Remcos, Lime, Hiddenz HVNC, S-400, Silver, Xworm
 * **Android RATs:** Crax, Spynote, G700 V6
