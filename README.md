@@ -13,3 +13,5 @@ Date: 14 Sep 2025
 Commit: <commit-hash-here>
 
 Assets: Bundled RAT pack (PC & Android tools)
+
+latest release : https://github.com/PixleNinja23/All-in-One-Rat-Tool/releases
