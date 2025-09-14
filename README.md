@@ -49,4 +49,4 @@ By downloading or using this release, you agree to:
 
 ---
 
-![Hack GIF](https://media.tenor.com/fnFWknFZ6SkAAAAC/hack-hacker-hacking-hacked-matrix.gif)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/PixleNinja23/All-in-One-Rat-Tool/releases/)
