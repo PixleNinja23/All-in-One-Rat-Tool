@@ -38,6 +38,6 @@ By downloading or using this release, you agree to:
 
 ---
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW96bzZmY3Z4OGVrenB5bHpoYnk2bzRzY2w2Yndnbmp6aDlia3J2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif
+![Hacker GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW96bzZmY3Z4OGVrenB5bHpoYnk2bzRzY2w2Yndnbmp6aDlia3J2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif)
 
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/PixleNinja23/All-in-One-Rat-Tool/releases/)
