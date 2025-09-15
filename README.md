@@ -4,8 +4,6 @@
 
 This release contains a curated bundle of **PC RATs** and **Android RATs**, collected into a single toolkit. It is intended for **security research, malware analysis, and controlled penetration testing** in virtualized environments.
 
-⚠️ **Important:** Do not run these binaries on your main PC. Always use a VM or isolated test machine.
-
 ---
 
 ## ⚠️ Ownership Disclaimer
@@ -39,5 +37,7 @@ By downloading or using this release, you agree to:
 * If you did not intend to download such tools, do not extract or execute any files; delete them immediately.
 
 ---
+
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW96bzZmY3Z4OGVrenB5bHpoYnk2bzRzY2w2Yndnbmp6aDlia3J2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif
 
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/PixleNinja23/All-in-One-Rat-Tool/releases/)
